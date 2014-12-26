@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Layout</string>
+    <string name="frame_layout_activity_label">Frame Layout Example</string>
+    <string name="linear_layout_activity_label">Linear Layout Example</string>
+    <string name="relative_layout_activity_label">Relative Layout Example</string>
+    <string name="grid_layout_activity_label">Grid Layout Example</string>
+    <string name="flow_layout_activity_label">Flow Layout - Custom Layout Example</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="main_menu">
+        <item>Frame Layout</item>
+        <item>Linear Layout</item>
+        <item>Relative Layout</item>
+        <item>Grid Layout</item>
+        <item>FlowLayout - CustomLayout</item>
+    </string-array>
+
+</resources>
